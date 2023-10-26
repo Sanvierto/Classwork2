@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>Classwork</title>
     <style>
         body {
@@ -30,25 +31,19 @@
 <body>
     <h1>Classwork</h1>
     <h2>Classwork</h2>
-
-    <p style="font-style: italic;">I did the classwork so please put me a ten.</p> 
-
+    <p style="font-style: italic;">I did the classwork, so please put me at ten.</p> 
     <a href="https://www.youtube.com/watch?v=rWWJMeNzt-8&list=WL&index=354">Reason to give me a ten</a>
-
-    <img src="http://www.quickmeme.com/img/82/8231b779b92e1d5303b2ba91f6f6b3c7b2fc8fcd26dfa823ef5734c2ce3ddd5f.jpg">
-
+    <img src="http://www.quickmeme.com/img/82/8231b779b92e1d5303b2ba91f6f6b3c7b2fc8fcd26dfa823ef5734c2ce3ddd5f.jpg" alt="Funny Meme">
     <ul>
-        <li>I am very active at the lesson</li>
+        <li>I am very active in the lesson</li>
         <li>I don't use my phone</li>
-        <li>I send the homework/classwork on time</li>
+        <li>I submit the homework/classwork on time</li>
     </ul>
-
     <ol>
-        <li>I am very active at the lesson</li>
+        <li>I am very active in the lesson</li>
         <li>I don't use my phone</li>
-        <li>I send the homework/classwork on time</li>
+        <li>I submit the homework/classwork on time</li>
     </ol>
-
     <table>
         <tr>
             <th>A</th>
@@ -63,7 +58,7 @@
         <tr>
             <td>Alpaca</td>
             <td>Albina</td>
-            <td>Crocodil</td>
+            <td>Crocodile</td>
         </tr>
     </table>
 </body>
